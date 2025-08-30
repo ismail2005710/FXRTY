@@ -1,7 +1,9 @@
-{
-  "name": "John Doe",
-  "age": 30,
-  "isStudent": false,
-  "courses":"9999",
-  "namex": 100
-}
+[
+  {"m":"map"},
+  {"m":"modling"},
+  {"m":"main"},
+  {"m":"djame"},
+  {"m":"tuhhuh"},
+  {"m":"gyuuuu"},
+  {"m":"ghhhh"},
+]
